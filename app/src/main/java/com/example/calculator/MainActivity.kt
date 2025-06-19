@@ -69,7 +69,5 @@ class MainActivity : AppCompatActivity() {
         var divide=num1.toInt() / num2.toInt()
         tvResult.text = divide.toString()
     }
-
     }
-
 }
